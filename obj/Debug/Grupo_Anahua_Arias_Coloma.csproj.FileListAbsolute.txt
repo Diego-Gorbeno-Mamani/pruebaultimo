@@ -1,0 +1,14 @@
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\obj\Debug\Grupo_Anahua_Arias_Coloma.csprojAssemblyReference.cache
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\obj\Debug\Grupo_Anahua_Arias_Coloma.MDIPrincipal.resources
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\obj\Debug\Grupo_Anahua_Arias_Coloma.Properties.Resources.resources
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\obj\Debug\Grupo_Anahua_Arias_Coloma.csproj.GenerateResource.cache
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\obj\Debug\Grupo_Anahua_Arias_Coloma.csproj.CoreCompileInputs.cache
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\bin\Debug\Grupo_Anahua_Arias_Coloma.exe.config
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\bin\Debug\Grupo_Anahua_Arias_Coloma.exe
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\bin\Debug\Grupo_Anahua_Arias_Coloma.pdb
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\obj\Debug\Grupo_Anahua_Arias_Coloma.exe
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\obj\Debug\Grupo_Anahua_Arias_Coloma.pdb
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\obj\Debug\Grupo_Anahua_Arias_Coloma.Ejercicio3.resources
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\obj\Debug\Grupo_Anahua_Arias_Coloma.Ejercicio4.resources
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\obj\Debug\Grupo_Anahua_Arias_Coloma.Ejercicio5.resources
+D:\TrabajoU1Progra2\trabajo-grupal---i-unidad-grupo_anahua_arias_coloma\obj\Debug\Grupo_Anahua_Arias_Coloma.Ejercicio555.resources
